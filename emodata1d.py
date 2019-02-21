@@ -5,7 +5,7 @@ import os
 import librosa
 
 
-datapath = '/data/home/eex608/capsnetEmodb/emodb/wav'
+datapath = '/data/home/vandana/emodb/wav'
 classes = ['W','L','E','A','F','T','N'] # 7 classes
 
 seg_len = 16000 # signal split length (in samples) in time domain
