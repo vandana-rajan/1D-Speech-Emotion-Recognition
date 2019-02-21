@@ -10,4 +10,10 @@ http://www.emodb.bilderbar.info/download/
 
 There are 7 emotional classes and the validation accuracy obtained is ~61% as mentioned in the paper.
 
+Developed and tested on the following:
+
+Python 2.7
+keras 2.2.4
+Librosa 0.6.2
+
 
