@@ -16,6 +16,9 @@ Python 2.7
 keras 2.2.4
 Librosa 0.6.2
 
+Update: 07-05-2021
+Modifed the cnn1d.py architecture with attention mechanism (cnn1d_attn.py), shows better performance in terms of accuracy.
+
 ##################################
 
 #For another computational paralinguistic task, verbal conflict intensity estimation, see the repo https://github.com/smartcameras/ConflictNET
