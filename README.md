@@ -18,7 +18,7 @@ Librosa 0.6.2
 
 Update: 07-05-2021
 
-Modifed the cnn1d.py architecture with attention mechanism (cnn1d_attn.py), shows better performance in terms of accuracy (66%-70%).
+Modifed the cnn1d.py architecture with attention mechanism (cnn1d_attn.py), shows better performance in terms of accuracy (66%-70% with lr 0.01).
 
 ##################################
 
